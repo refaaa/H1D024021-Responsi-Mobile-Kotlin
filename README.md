@@ -21,7 +21,7 @@ Aplikasi dikembangkan menggunakan Kotlin dan Jetpack Compose dengan penerapan Ma
 
 ## GIF Aplikasi
 
-![Demo Aplikasi](screenshots/demo.gif)
+[Demo Aplikasi](https://youtu.be/JqKSSkhGGj4?si=5vVj0KGLgQJkBVG4)
 
 ## Struktur MVVM
 
